@@ -1,0 +1,17 @@
+/*
+Theme Name: Teravoxel
+Theme URI: http://www.teravoxel.com
+Description: Wordpress theme for Teravoxel
+Author: Jeremy Collins
+Author URI: http://www.teravoxel.com
+Version: 0.9
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+

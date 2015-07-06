@@ -1,0 +1,1 @@
+[17-Nov-2013 18:16:11] PHP Fatal error:  Call to undefined function  get_header() in /home2/jcollins/public_html/wp-content/themes/teravoxel/index.php on line 1
